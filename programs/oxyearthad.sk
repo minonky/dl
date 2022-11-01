@@ -1,0 +1,7 @@
+# Made by MakoPog
+# www.MakoPog.com
+
+every 10 minutes:
+  send "&aAdvertisement" to all players
+  send "" to all players
+  send "Use "&e/ad &r&cOxyEarth&r" at &c/hub&r! " to all players
