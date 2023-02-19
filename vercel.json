@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    { 
+      "source": "/",
+      "destination": "https://files.krychtalek.eu", 
+      "permanent": true
+    }
+  ]
+}
