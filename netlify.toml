@@ -1,6 +1,4 @@
 [[redirects]]
-  from = "/"
-  to = "https://www.krychtalek.cloud"
+  from = "/h"
+  to = "https://www.krychtalek.cloud/"
   status = 301
-  force = true
-  query = {path = ":path"}
